@@ -29,7 +29,6 @@ notes.push(newNote);
 }
 
 function deleteNote(id){
-    //get the notes 
 const notes = getNotes();
     //filter out the note with given id 
 const filter = notes.filter((note) => {
