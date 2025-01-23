@@ -13,7 +13,7 @@
   - [Questions](#questions)
 
 ## Description
-This application is a helpful tool to help you save notes and plan your tasks. In this application we used HTML, CSS, JS, NODE.JS and Express.js. There were multiple challenges faced through this project mainly due to learning and being new to the syntax of express.js however, this did not stop me from completing the backend side of this project. .
+This application is a helpful tool to help you save notes and plan your tasks. In this application I used HTML, CSS, JS, NODE.JS and Express.js. There were multiple challenges faced through this project mainly due to learning and being new to the syntax of express.js however, this did not stop me from completing the backend side of this project. .
 
 ## Installation
 - copy ssh keys 
